@@ -1,0 +1,66 @@
+.fa-brands {
+    font-size: 60px;
+}
+
+.fa-brands {
+    padding: 0px 35px;
+}
+
+.img {
+    height: 400px;
+}
+
+
+
+/* Responsive the webpage */
+
+@media only screen and (max-width: 700px) {}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .carousel-inner img {
+        width: 100%;
+    }
+
+    .p1,
+    .p2,
+    .p3,
+    .p4,
+    .p5 {
+        width: 100%;
+        padding: 0px;
+        font-size: 20px;
+    }
+
+    .p6 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .p6 button {
+        width: 100%;
+        margin: 20px;
+    }
+
+    .p7 {
+        width: 100%;
+    }
+
+    .p8 {
+        width: 100%;
+        text-align: center;
+
+        justify-content: center;
+        padding-left: 25px;
+        font-size: 20px;
+    }
+
+    .fa-brands {
+        padding: 20px 0px;
+    }
+
+
+}
